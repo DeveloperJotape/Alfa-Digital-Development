@@ -9,8 +9,10 @@
 	href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
 	integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
 	crossorigin="anonymous">
-<link rel="stylesheet" type="text/css"
-	href="css/fontawesome/css/all.min.css">
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+	integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+	crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="css/style.css">
 <title>Alfa - Home</title>
@@ -91,7 +93,7 @@
 			<div class="row text-center">
 				<!-- ICON 1 -->
 				<div class="col-sm icons-card d-flex align-items-center flex-column">
-					<i class="fa fa-coffee font-color-secundary" aria-hidden="true"></i>
+					<i class="fa-solid fa-mug-hot font-color-secundary"></i>
 					<h4 class="font-color-secundary">Título 1</h4>
 					<div class="icons-text">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -99,16 +101,16 @@
 				</div>
 				<!-- ICON 2 -->
 				<div class="col-sm icons-card d-flex align-items-center flex-column">
-					<i class="fa fa-money font-color-secundary" aria-hidden="true"></i>
-					<h4 class="font-color-secundary">Título 1</h4>
+					<i class="fa-solid fa-sack-dollar font-color-secundary"></i>
+					<h4 class="font-color-secundary">Título 2</h4>
 					<div class="icons-text">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 					</div>
 				</div>
 				<!-- ICON 3 -->
 				<div class="col-sm icons-card d-flex align-items-center flex-column">
-					<i class="fa fa-comments-o font-color-secundary" aria-hidden="true"></i>
-					<h4 class="font-color-secundary">Título 1</h4>
+					<i class="fa-solid fa-comments font-color-secundary"></i>
+					<h4 class="font-color-secundary">Título 3</h4>
 					<div class="icons-text">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 					</div>
@@ -138,34 +140,46 @@
 		<div class="container">
 			<h2 class="font-color-secundary text-center">Depoimentos</h2>
 			<div class="row">
-				<div class="col">					
+				<div class="col">
 					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
 					<h4 class="font-color-secundary text-center">Nome</h4>
-					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<h2 class="text-center">
+						<i class="fa fa-quote-left font-color-secundary icon"
+							aria-hidden="true"></i>
+					</h2>
 					<p class="text-center">
 						<i>Bla bla bla bla a bla </i>
 					</p>
 				</div>
-				<div class="col">					
+				<div class="col">
 					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
 					<h4 class="font-color-secundary text-center">Nome</h4>
-					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<h2 class="text-center">
+						<i class="fa fa-quote-left font-color-secundary icon"
+							aria-hidden="true"></i>
+					</h2>
 					<p class="text-center">
 						<i>Bla bla bla bla a bla </i>
 					</p>
 				</div>
-				<div class="col">					
+				<div class="col">
 					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
 					<h4 class="font-color-secundary text-center">Nome</h4>
-					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<h2 class="text-center">
+						<i class="fa fa-quote-left font-color-secundary icon"
+							aria-hidden="true"></i>
+					</h2>
 					<p class="text-center">
 						<i>Bla bla bla bla a bla </i>
 					</p>
 				</div>
-				<div class="col">					
+				<div class="col">
 					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
 					<h4 class="font-color-secundary text-center">Nome</h4>
-					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<h2 class="text-center">
+						<i class="fa fa-quote-left font-color-secundary icon"
+							aria-hidden="true"></i>
+					</h2>
 					<p class="text-center">
 						<i>Bla bla bla bla a bla </i>
 					</p>
@@ -173,6 +187,46 @@
 			</div>
 		</div>
 	</section>
+
+	<!-- FOOTER -->
+	<footer class="bg-color-2 font-color">
+		<div class="container">
+			<!-- Cria uma div de linha para dividir o rodapé em três colunas -->
+			<div class="row">
+				<!-- Coluna 1: Informações de contato -->
+				<div class="col-md-4">
+					<h6>Contato</h6>
+					<p>Endereço: Rua XY, 123</p>
+					<p>E-mail: contato@alfadigital.com</p>
+					<p>Telefone: (61) 9 7456-7890</p>
+				</div>
+				<!-- Coluna 2: Links rápidos -->
+				<div class="col-md-4">
+					<h6>Links Rápidos</h6>
+					<!-- Lista não ordenada com links para diferentes páginas -->
+					<ul class="list-unstyled">
+						<li><a href="index.jsp" class="link font-color">Página Inicial</a></li>
+						<li><a href="#" class="link font-color">Diferencial</a></li>
+						<li><a href="#" class="link font-color">Sobre</a></li>
+						<li><a href="#" class="link font-color">Planos</a></li>
+						<li><a href="#" class="link font-color">Entrar</a></li>
+					</ul>
+				</div>
+				<!-- Coluna 3: Links de mídia social -->
+				<div class="col-md-4">
+					<h6>Redes Sociais</h6>
+					<!-- Links para outras redes sociais -->
+					<a href="https://www.instagram.com/Itour_Viagens" target="_blank"
+						class="social-link"><i class="fab fa-instagram link font-color"></i></a>
+					<a href="#" target="_blank" class="social-link link font-color"><i
+						class="fab fa-facebook"></i></a> <a href="#" target="_blank"
+						class="social-link"><i class="fab fa-twitter link font-color"></i></a>
+				</div>
+			</div>
+
+			<p class="text-center">&copy; 2023 Alfa Digital Developer</p>
+		</div>
+	</footer>
 
 	<!-- FONTAWESOME -->
 	<script src="https://kit.fontawesome.com/bf8d9f5eb9.js"
