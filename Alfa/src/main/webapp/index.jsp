@@ -22,7 +22,7 @@
 	<!-- NAVBAR -->
 	<nav class="navbar navbar-expand-sm bg-color-2">
 		<div class="container">
-			<a class="navbar-brand navbar-logo font-color" href="#">Alfa</a>
+			<a class="navbar-brand navbar-logo font-color" href="index.jsp">Alfa</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse"
 				data-target="#conteudoNavbarSuportado"
 				aria-controls="conteudoNavbarSuportado" aria-expanded="false"
@@ -32,11 +32,11 @@
 
 			<div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link font-color" href="#">Home</a></li>
+					<li class="nav-item"><a class="nav-link font-color" href="index.jsp">Home</a></li>
 					<li class="nav-item"><a class="nav-link font-color" href="#">Diferencial</a></li>
 					<li class="nav-item"><a class="nav-link font-color" href="#">Sobre</a></li>
 					<li class="nav-item"><a class="nav-link font-color" href="#">Planos</a></li>
-					<li class="nav-item"><a class="nav-link font-color" href="#">Entrar</a></li>
+					<li class="nav-item"><a class="nav-link font-color" href="pages/Entrar.jsp">Entrar</a></li>
 				</ul>
 			</div>
 		</div>
@@ -209,7 +209,7 @@
 						<li><a href="#" class="link font-color">Diferencial</a></li>
 						<li><a href="#" class="link font-color">Sobre</a></li>
 						<li><a href="#" class="link font-color">Planos</a></li>
-						<li><a href="#" class="link font-color">Entrar</a></li>
+						<li><a href="pages/Entrar.jsp" class="link font-color">Entrar</a></li>
 					</ul>
 				</div>
 				<!-- Coluna 3: Links de mídia social -->
@@ -234,7 +234,7 @@
 	<!-- BOOTSTRAP -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
 		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-		crossorigin="anonymous"></script>
+		c rossorigin="anonymous"></script>
 	<script
 		src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
 		integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
