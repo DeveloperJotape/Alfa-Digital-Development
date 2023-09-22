@@ -15,7 +15,7 @@
 	crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="../css/style.css">
-<title>Alfa - Entrar</title>
+<title>Alfa - Cadastro</title>
 </head>
 <body>
 
@@ -113,12 +113,12 @@
 						class="form-container d-flex justify-content-center flex-column">
 						<div class="user-icon text-center d-flex justify-content-center">
 							<div class="bg-icon">
-								<i class="fa-solid fa-user font-color"></i>
+								<i class="fa-solid fa-user font-color"></i>								
 							</div>
 						</div>
 						
 						<div class="text-center font-color">
-							<h2>Entrar</h2>
+							<h2>Cadastre-se</h2>
 						</div>
 
 						<div>
@@ -130,17 +130,22 @@
 								placeholder="Senha" required>
 						</div>
 						<div>
-							<input type="checkbox" id="input-checkbox"> <label
-								for="input-checkbox" class="font-color">Lembrar usuário</label>
+							<input type="email" name="email" id="email" class="input-box"
+								placeholder="Email" required>
 						</div>
+						<div>
+							<input type="tel" name="tel" id="tel" class="input-box"
+								placeholder="Telefone (xx) x xxxx-xxxx" required>
+						</div>			
 						<div class="d-flex justify-content-center mt-2">
-							<input type="submit" value="Enviar" class="btn-sec">
-						</div>
+							<input type="submit" value="Cadastrar" class="btn-sec">
+						</div>	
+						
 						<div class="text-center font-color">
 							<p>
-								Não possui conta?<br> <a href="Cadastrar.jsp" class="link font-color"><b>CADASTRE-SE</b></a>
+								Já possui conta?<br> <a href="Entrar.jsp" class="link font-color"><b>FAÇA O LOGIN</b></a>
 							</p>
-						</div>
+						</div>					
 
 					</form>
 				</div>

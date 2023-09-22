@@ -248,7 +248,8 @@ footer {
 /* DIREITA */
 .entrar-form {
 	border-radius: 0px 30px 30px 0px;
-	height: 70vh;
+	height: auto;
+	padding: 80px 0;
 }
 
 .entrar .user-icon .bg-icon {
