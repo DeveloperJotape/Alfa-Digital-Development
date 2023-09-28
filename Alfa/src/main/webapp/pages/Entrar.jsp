@@ -53,8 +53,11 @@
 					<img class="d-block w-100 c-img" src="../images/bg-image-1.jpg"
 						alt="Primeiro Slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>
+							Aqui, a magia do forno se encontra com o sabor autêntico, criando
+							momentos especiais a cada mordida.
+						</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
@@ -62,17 +65,19 @@
 					<img class="d-block w-100 c-img" src="../images/bg-image-2.jpg"
 						alt="Slide 2">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Há décadas, temos nos dedicado a criar uma experiência
+							única para os nossos clientes, combinando a arte tradicional da
+							padaria com ingredientes de alta qualidade.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
 				<div class="carousel-item c-item">
-					<img class="d-block w-100 c-img" src="../images/bg-image-1.jpg"
+					<img class="d-block w-100 c-img" src="../images/bg-image-3.jpg"
 						alt="Slide 3">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Aqui o aroma doce da tradição encontra você na porta.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
@@ -95,15 +100,13 @@
 				<!-- ESQUERDA -->
 				<div
 					class="col entrar-img container d-flex justify-content-center font-color flex-column">
-					<p class="logo">Alfa</p>
+					<p class="logo mb-5">Alfa</p>
 					<div class="esq-entrar-texto">
 						<h2>seja membro e aprecie um delicioso café</h2>
 					</div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Nullam fermentum quis urna vel porttitor.</p>
-					<div>
-						<button class="btn btn-primary fs-5">Saiba Mais</button>
-					</div>
+					<p>Bem-vindo à Padaria Alfa! Por favor, faça seu login para
+						acessar sua conta. Sua jornada de delícias está prestes a
+						continuar.</p>
 
 				</div>
 				<!-- DIREITA -->
@@ -116,7 +119,7 @@
 								<i class="fa-solid fa-user font-color"></i>
 							</div>
 						</div>
-						
+
 						<div class="text-center font-color">
 							<h2>Entrar</h2>
 						</div>
@@ -138,7 +141,8 @@
 						</div>
 						<div class="text-center font-color">
 							<p>
-								Não possui conta?<br> <a href="Cadastrar.jsp" class="link font-color"><b>CADASTRE-SE</b></a>
+								Não possui conta?<br> <a href="Cadastrar.jsp"
+									class="link font-color"><b>CADASTRE-SE</b></a>
 							</p>
 						</div>
 

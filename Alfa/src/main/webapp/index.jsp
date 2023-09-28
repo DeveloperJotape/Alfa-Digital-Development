@@ -32,11 +32,13 @@
 
 			<div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link font-color" href="index.jsp">Home</a></li>
+					<li class="nav-item"><a class="nav-link font-color"
+						href="index.jsp">Home</a></li>
 					<li class="nav-item"><a class="nav-link font-color" href="#">Diferencial</a></li>
 					<li class="nav-item"><a class="nav-link font-color" href="#">Sobre</a></li>
 					<li class="nav-item"><a class="nav-link font-color" href="#">Planos</a></li>
-					<li class="nav-item"><a class="nav-link font-color" href="pages/Entrar.jsp">Entrar</a></li>
+					<li class="nav-item"><a class="nav-link font-color"
+						href="pages/Entrar.jsp">Entrar</a></li>
 				</ul>
 			</div>
 		</div>
@@ -51,8 +53,9 @@
 					<img class="d-block w-100 c-img" src="images/bg-image-1.jpg"
 						alt="Primeiro Slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Aqui, a magia do forno se encontra com o sabor autêntico,
+							criando momentos especiais a cada mordida.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
@@ -60,17 +63,19 @@
 					<img class="d-block w-100 c-img" src="images/bg-image-2.jpg"
 						alt="Slide 2">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Há décadas, temos nos dedicado a criar uma experiência
+							única para os nossos clientes, combinando a arte tradicional da
+							padaria com ingredientes de alta qualidade.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
 				<div class="carousel-item c-item">
-					<img class="d-block w-100 c-img" src="images/bg-image-1.jpg"
+					<img class="d-block w-100 c-img" src="images/bg-image-3.jpg"
 						alt="Slide 3">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Aqui o aroma doce da tradição encontra você na porta.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
@@ -96,7 +101,7 @@
 					<i class="fa-solid fa-mug-hot font-color-secundary"></i>
 					<h4 class="font-color-secundary">Título 1</h4>
 					<div class="icons-text">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Prepare-se para uma experiência única de sabor e aroma.</p>
 					</div>
 				</div>
 				<!-- ICON 2 -->
@@ -104,7 +109,8 @@
 					<i class="fa-solid fa-sack-dollar font-color-secundary"></i>
 					<h4 class="font-color-secundary">Título 2</h4>
 					<div class="icons-text">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>O prazer de saborear nossos produtos fica ainda melhor com
+							as nossas promoções especiais e preços baixos.</p>
 					</div>
 				</div>
 				<!-- ICON 3 -->
@@ -112,7 +118,8 @@
 					<i class="fa-solid fa-comments font-color-secundary"></i>
 					<h4 class="font-color-secundary">Título 3</h4>
 					<div class="icons-text">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Estamos aqui para ouvir, ajudar e garantir que sua
+							experiência seja perfeita, fale conosco!</p>
 					</div>
 				</div>
 			</div>
@@ -131,7 +138,7 @@
 						que quer economia vem comprar na Alfa!</b>
 				</p>
 			</div>
-			<img src="images/bg-image-2.jpg">
+			<img src="images/pao.jpg">
 		</div>
 	</section>
 
@@ -148,40 +155,45 @@
 							aria-hidden="true"></i>
 					</h2>
 					<p class="text-center">
-						<i>Bla bla bla bla a bla </i>
+						<i>Eles têm os pães mais frescos e deliciosos que já provei.
+							Além disso, os bolos são sempre uma obra de arte!</i>
 					</p>
 				</div>
 				<div class="col">
-					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
+					<img src="images/depoimento-2.jpg" alt="Depoimento 2">
 					<h4 class="font-color-secundary text-center">Nome</h4>
 					<h2 class="text-center">
 						<i class="fa fa-quote-left font-color-secundary icon"
 							aria-hidden="true"></i>
 					</h2>
 					<p class="text-center">
-						<i>Bla bla bla bla a bla </i>
+						<i>É um lugar onde você pode sentir o carinho que colocam em
+							cada produto. Recomendo a todos!</i>
 					</p>
 				</div>
 				<div class="col">
-					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
+					<img src="images/depoimento-3.jpg" alt="Depoimento 3">
 					<h4 class="font-color-secundary text-center">Nome</h4>
 					<h2 class="text-center">
 						<i class="fa fa-quote-left font-color-secundary icon"
 							aria-hidden="true"></i>
 					</h2>
 					<p class="text-center">
-						<i>Bla bla bla bla a bla </i>
+						<i>O aroma dos pães acabados de assar quando entrei era
+							incrível. Mal posso esperar para voltar e experimentar mais
+							coisas!</i>
 					</p>
 				</div>
 				<div class="col">
-					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
+					<img src="images/depoimento-4.jpg" alt="Depoimento 4">
 					<h4 class="font-color-secundary text-center">Nome</h4>
 					<h2 class="text-center">
 						<i class="fa fa-quote-left font-color-secundary icon"
 							aria-hidden="true"></i>
 					</h2>
 					<p class="text-center">
-						<i>Bla bla bla bla a bla </i>
+						<i>A padaria fez o bolo de casamento dos nossos sonhos! Ficou
+							absolutamente deslumbrante e delicioso.</i>
 					</p>
 				</div>
 			</div>
@@ -205,7 +217,8 @@
 					<h6>Links Rápidos</h6>
 					<!-- Lista não ordenada com links para diferentes páginas -->
 					<ul class="list-unstyled">
-						<li><a href="index.jsp" class="link font-color">Página Inicial</a></li>
+						<li><a href="index.jsp" class="link font-color">Página
+								Inicial</a></li>
 						<li><a href="#" class="link font-color">Diferencial</a></li>
 						<li><a href="#" class="link font-color">Sobre</a></li>
 						<li><a href="#" class="link font-color">Planos</a></li>
@@ -217,8 +230,9 @@
 					<h6>Redes Sociais</h6>
 					<!-- Links para outras redes sociais -->
 					<a href="https://www.instagram.com/Itour_Viagens" target="_blank"
-						class="social-link"><i class="fab fa-instagram link font-color"></i></a>
-					<a href="#" target="_blank" class="social-link link font-color"><i
+						class="social-link"><i
+						class="fab fa-instagram link font-color"></i></a> <a href="#"
+						target="_blank" class="social-link link font-color"><i
 						class="fab fa-facebook"></i></a> <a href="#" target="_blank"
 						class="social-link"><i class="fab fa-twitter link font-color"></i></a>
 				</div>
@@ -234,7 +248,7 @@
 	<!-- BOOTSTRAP -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
 		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-		c rossorigin="anonymous"></script>
+		crossorigin="anonymous"></script>
 	<script
 		src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
 		integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"

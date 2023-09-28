@@ -53,8 +53,9 @@
 					<img class="d-block w-100 c-img" src="../images/bg-image-1.jpg"
 						alt="Primeiro Slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Aqui, a magia do forno se encontra com o sabor autêntico,
+							criando momentos especiais a cada mordida.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
@@ -62,17 +63,19 @@
 					<img class="d-block w-100 c-img" src="../images/bg-image-2.jpg"
 						alt="Slide 2">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Há décadas, temos nos dedicado a criar uma experiência
+							única para os nossos clientes, combinando a arte tradicional da
+							padaria com ingredientes de alta qualidade.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
 				<div class="carousel-item c-item">
-					<img class="d-block w-100 c-img" src="../images/bg-image-1.jpg"
+					<img class="d-block w-100 c-img" src="../images/bg-image-3.jpg"
 						alt="Slide 3">
 					<div class="carousel-caption d-none d-md-block">
-						<h6 class="text-uppercase">texto</h6>
 						<h1>Alfa Digital Development</h1>
+						<h6>Aqui o aroma doce da tradição encontra você na porta.</h6>
 						<button class="btn btn-primary fs-5">Saiba Mais</button>
 					</div>
 				</div>
@@ -95,15 +98,13 @@
 				<!-- ESQUERDA -->
 				<div
 					class="col entrar-img container d-flex justify-content-center font-color flex-column">
-					<p class="logo">Alfa</p>
+					<p class="logo mb-5">Alfa</p>
 					<div class="esq-entrar-texto">
 						<h2>seja membro e aprecie um delicioso café</h2>
 					</div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Nullam fermentum quis urna vel porttitor.</p>
-					<div>
-						<button class="btn btn-primary fs-5">Saiba Mais</button>
-					</div>
+					<p>Junte-se à nossa comunidade de amantes de pães e doces!
+						Preencha o formulário ao lado para criar uma conta na Padaria
+						Alfa.</p>
 
 				</div>
 				<!-- DIREITA -->
@@ -113,10 +114,10 @@
 						class="form-container d-flex justify-content-center flex-column">
 						<div class="user-icon text-center d-flex justify-content-center">
 							<div class="bg-icon">
-								<i class="fa-solid fa-user font-color"></i>								
+								<i class="fa-solid fa-user font-color"></i>
 							</div>
 						</div>
-						
+
 						<div class="text-center font-color">
 							<h2>Cadastre-se</h2>
 						</div>
@@ -136,16 +137,17 @@
 						<div>
 							<input type="tel" name="tel" id="tel" class="input-box"
 								placeholder="Telefone (xx) x xxxx-xxxx" required>
-						</div>			
+						</div>
 						<div class="d-flex justify-content-center mt-2">
 							<input type="submit" value="Cadastrar" class="btn-sec">
-						</div>	
-						
+						</div>
+
 						<div class="text-center font-color">
 							<p>
-								Já possui conta?<br> <a href="Entrar.jsp" class="link font-color"><b>FAÇA O LOGIN</b></a>
+								Já possui conta?<br> <a href="Entrar.jsp"
+									class="link font-color"><b>FAÇA O LOGIN</b></a>
 							</p>
-						</div>					
+						</div>
 
 					</form>
 				</div>
