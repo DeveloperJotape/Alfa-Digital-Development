@@ -38,7 +38,7 @@
 					<li class="nav-item"><a class="nav-link font-color" href="#">Sobre</a></li>
 					<li class="nav-item"><a class="nav-link font-color" href="#">Planos</a></li>
 					<li class="nav-item"><a class="nav-link font-color"
-						href="pages/Entrar.jsp">Entrar</a></li>
+						href="entrar.jsp">Entrar</a></li>
 				</ul>
 			</div>
 		</div>
